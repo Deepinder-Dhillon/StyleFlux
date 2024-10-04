@@ -1,0 +1,283 @@
+[
+  {
+    "id": "x001",
+    "name": "Gazelle Indoor Shoes",
+    "price": "160",
+    "label": "Shoes",
+    "sizes": ["6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10"],
+    "tag": "Basketball Shoes",
+    "heading": "ICONIC GAZELLE SHOES MADE WITH SUPPLE SUEDE",
+    "bodyText": "These adidas Gazelle Indoor shoes give you comfort and retro style, with a premium suede upper and two-color 3-Stripes. Originally designed as an indoor soccer training shoe, these kicks pay homage to how far the Gazelle has come since its debut.",
+    "imageUrl": "Gazelle.png"
+  },
+  {
+    "id": "x002",
+    "name": "Denim Track Top",
+    "price": "19.99",
+    "label": "Winter",
+    "sizes": ["S", "M", "L", "XL"],
+    "tag": "Light Denim",
+    "heading": "A LOOSE-FIT TRACK TOP FOR EFFORTLESS EVERYDAY LAYERING",
+    "bodyText": "Made from soft denim that gets better with age, this adidas Essentials track top blends classic sporty elements with a modern, easygoing vibe. Leave it open or zip it up. The choice is yours. However you wear it, this loose-fitting top is ready to go wherever your day takes you.The cotton in this product has been sourced through Better Cotton. Better Cotton is sourced via a chain of custody model called mass balance. This means that Better Cotton is not physically traceable to end products.",
+    "imageUrl": "Premium_essentials.png"
+  },
+  
+  {
+    "id": "x003",
+    "name": " Tiro Pants",
+    "price": "39",
+    "label": "Pants",
+    "sizes": ["S", "M", "L", "XL"],
+    "tag": "Men Sportswear",
+    "heading": "A LOOSE-FIT TRACK TOP FOR EFFORTLESS EVERYDAY LAYERING",
+    "bodyText": "Bring the spirit of soccer to your daily hustle. These adidas Tiro pants have tapered legs with ankle zips for a sleek silhouette and move-with-you feel as you run errands or meet up with friends. Zip pockets keep your essentials close at hand.Made with a series of recycled materials, and at least 70% recycled content, this product represents just one of our solutions to help end plastic waste.",
+    "imageUrl": "Tiro_pants.png"
+  },
+  
+  {
+      "id": "x004",
+      "name": "Classic Hoodie",
+      "price": "45",
+      "label": "Hoodies",
+      "sizes": ["S", "M", "L", "XL"],
+      "tag": "Casual Wear",
+      "heading": "A CLASSIC HOODIE FOR EVERYDAY COMFORT",
+      "bodyText": "This classic hoodie combines soft fabric with a simple design, making it a versatile layer for all your casual looks. Whether you're lounging at home or out on the streets, this hoodie has you covered.",
+      "imageUrl": "classic_hoodie.png"
+    },
+    {
+      "id": "x005",
+      "name": "Lightweight Summer Jacket",
+      "price": "60",
+      "label": "Jackets",
+      "sizes": ["S", "M", "L", "XL"],
+      "tag": "Lightweight",
+      "heading": "A LIGHTWEIGHT JACKET FOR COOL SUMMER EVENINGS",
+      "bodyText": "Perfect for those cool summer evenings, this lightweight jacket offers a breathable design with a stylish look. The water-resistant fabric keeps you dry, while the adjustable hood provides extra coverage.",
+      "imageUrl": "summer_jacket.png"
+    },
+    {
+      "id": "x006",
+      "name": "Performance Running Shorts",
+      "price": "30",
+      "label": "Sports",
+      "sizes": ["S", "M", "L", "XL"],
+      "tag": "Running",
+      "heading": "BREATHABLE RUNNING SHORTS FOR YOUR DAILY RUNS",
+      "bodyText": "Stay cool and comfortable during your runs with these performance shorts. Featuring moisture-wicking fabric and a supportive inner brief, these shorts are designed to keep you moving without distractions.",
+      "imageUrl": "running_shorts.png"
+    },
+    {
+      "id": "x007",
+      "name": "Graphic Tee",
+      "price": "25",
+      "label": "Shirts",
+      "sizes": ["S", "M", "L", "XL"],
+      "tag": "Casual",
+      "heading": "A GRAPHIC TEE FOR EVERY OCCASION",
+      "bodyText": "Express yourself with this graphic tee, featuring bold designs and comfortable fabric. Whether you're out with friends or just lounging at home, this tee adds a pop of personality to any outfit.",
+      "imageUrl": "graphic_tee.png"
+    },
+    {
+      "id": "x008",
+      "name": "Basic Beanie",
+      "price": "15",
+      "label": "Accessories",
+      "sizes": ["One Size"],
+      "tag": "Winter Wear",
+      "heading": "A WARM BEANIE FOR WINTER DAYS",
+      "bodyText": "Keep your head warm during the cold months with this cozy beanie. Made from soft knit fabric, it's perfect for adding a touch of style while staying comfortable.",
+      "imageUrl": "basic_beanie.png"
+    },
+    {
+      "id": "x009",
+      "name": "Sporty Cap",
+      "price": "20",
+      "label": "Accessories",
+      "sizes": ["Medium", "Large"],
+      "tag": "Sports",
+      "heading": "A STYLISH CAP FOR SPORTS AND CASUAL WEAR",
+      "bodyText": "Top off your sporty look with this versatile cap. Featuring an adjustable strap for a perfect fit, this cap is great for workouts, outdoor activities, or everyday wear.",
+      "imageUrl": "sporty_cap.png"
+    },
+      {
+        "id": "x010",
+        "name": "Slim Fit Shirt",
+        "price": "40",
+        "label": "Shirts",
+        "sizes": ["S", "M", "L", "XL"],
+        "tag": "Business Casual",
+        "heading": "A SLIM-FIT SHIRT FOR A SHARP LOOK",
+        "bodyText": "This slim-fit shirt offers a tailored silhouette that flatters your frame while providing maximum comfort. Crafted from premium cotton, it's perfect for business casual settings or a night out. Pair it with chinos or jeans to complete your smart look.",
+        "imageUrl": "slim_fit_shirt.png"
+      },
+      {
+        "id": "x011",
+        "name": "Waterproof Sports Jacket",
+        "price": "70",
+        "label": "Jackets",
+        "sizes": ["S", "M", "L", "XL"],
+        "tag": "Outdoor",
+        "heading": "A WATERPROOF JACKET FOR ALL WEATHER CONDITIONS",
+        "bodyText": "Stay dry and stylish in unpredictable weather with this waterproof sports jacket. Featuring a breathable mesh lining and adjustable cuffs, it provides comfort and protection. Ideal for outdoor activities or everyday wear.",
+        "imageUrl": "waterproof_sports_jacket.png"
+      },
+      {
+        "id": "x012",
+        "name": "Summer Flip Flops",
+        "price": "15",
+        "label": "Summer",
+        "sizes": ["6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10"],
+        "tag": "Beach Wear",
+        "heading": "COMFORTABLE FLIP FLOPS FOR THE BEACH",
+        "bodyText": "Enjoy the summer sun with these lightweight flip flops, designed for comfort and style. The soft foam footbed cushions every step, making them perfect for beach outings, poolside relaxation, or casual walks.",
+        "imageUrl": "summer_flip_flops.png"
+      },
+      {
+        "id": "x013",
+        "name": "Cropped Hoodie",
+        "price": "50",
+        "label": "Hoodies",
+        "sizes": ["S", "M", "L", "XL"],
+        "tag": "Casual",
+        "heading": "A CROPPED HOODIE FOR A TRENDY LOOK",
+        "bodyText": "Add a modern twist to your casual wardrobe with this cropped hoodie. Featuring a soft, fleece-lined interior and an adjustable hood, it's perfect for layering or wearing on its own. Pair it with high-waisted jeans or joggers for a relaxed, stylish vibe.",
+        "imageUrl": "cropped_hoodie.png"
+      },
+      {
+        "id": "x014",
+        "name": "Puffer Jacket",
+        "price": "90",
+        "label": "Jackets",
+        "sizes": ["S", "M", "L", "XL"],
+        "tag": "Winter Wear",
+        "heading": "A PUFFER JACKET FOR MAXIMUM WARMTH",
+        "bodyText": "Stay warm without sacrificing style with this puffer jacket, featuring a high neck and zip closure for full protection against the cold. The lightweight insulation provides warmth without the bulk, making it ideal for winter outings.",
+        "imageUrl": "puffer_jacket.png"
+      },
+      {
+        "id": "x015",
+        "name": "Classic Denim Jacket",
+        "price": "75",
+        "label": "Jackets",
+        "sizes": ["S", "M", "L", "XL"],
+        "tag": "Denim",
+        "heading": "A CLASSIC DENIM JACKET FOR VERSATILE STYLING",
+        "bodyText": "A wardrobe staple, this classic denim jacket pairs well with almost anything. Made from durable denim with a soft, broken-in feel, it features a button front and multiple pockets for convenience. It's perfect for layering over shirts, hoodies, or dresses.",
+        "imageUrl": "classic_denim_jacket.png"
+      },
+      {
+        "id": "x016",
+        "name": "Mesh Running Shirt",
+        "price": "35",
+        "label": "Sports",
+        "sizes": ["S", "M", "L", "XL"],
+        "tag": "Running",
+        "heading": "A BREATHABLE MESH SHIRT FOR OPTIMAL PERFORMANCE",
+        "bodyText": "Stay cool and dry on your runs with this mesh running shirt. Designed with moisture-wicking fabric and strategic ventilation, it ensures you stay comfortable even during intense workouts. Reflective details help keep you visible in low light.",
+        "imageUrl": "mesh_running_shirt.png"
+      },
+      {
+        "id": "x017",
+        "name": "Training Hoodie",
+        "price": "55",
+        "label": "Hoodies",
+        "sizes": ["S", "M", "L", "XL"],
+        "tag": "Sportswear",
+        "heading": "A LIGHTWEIGHT HOODIE FOR TRAINING AND LOUNGING",
+        "bodyText": "Perfect for warming up or cooling down, this training hoodie is crafted from soft, stretchy fabric that moves with you. The adjustable drawcord hood offers extra coverage, while the kangaroo pocket keeps your essentials close at hand.",
+        "imageUrl": "training_hoodie.png"
+      },
+      {
+        "id": "x018",
+        "name": "Sun Hat",
+        "price": "25",
+        "label": "Accessories",
+        "sizes": ["One Size"],
+        "tag": "Summer",
+        "heading": "A STYLISH SUN HAT FOR PROTECTION AND STYLE",
+        "bodyText": "Shield yourself from the sun in style with this wide-brimmed hat. Made from lightweight, breathable fabric, it's perfect for beach days, picnics, or outdoor events. The adjustable chin strap ensures it stays in place even on windy days.",
+        "imageUrl": "sun_hat.png"
+      },
+      {
+        "id": "x019",
+        "name": "Ribbed Knit Scarf",
+        "price": "30",
+        "label": "Accessories",
+        "sizes": ["One Size"],
+        "tag": "Winter Wear",
+        "heading": "A COZY RIBBED KNIT SCARF FOR COLD WEATHER",
+        "bodyText": "Wrap yourself in warmth with this ribbed knit scarf, perfect for chilly days. The soft fabric feels great against your skin, and the versatile design makes it easy to pair with any coat or jacket.",
+        "imageUrl": "ribbed_knit_scarf.png"
+      },
+      {
+        "id": "x020",
+        "name": "Leather Belt",
+        "price": "40",
+        "label": "Accessories",
+        "sizes": ["One Size"],
+        "tag": "Casual",
+        "heading": "A CLASSIC LEATHER BELT FOR A POLISHED LOOK",
+        "bodyText": "Complete your outfit with this classic leather belt, featuring a sleek buckle and premium leather construction. Whether you're dressing up or down, this belt adds a touch of refinement to any look.",
+        "imageUrl": "leather_belt.png"
+      },
+      {
+        "id": "x021",
+        "name": "Linen Shirt",
+        "price": "45",
+        "label": "Shirts",
+        "sizes": ["S", "M", "L", "XL"],
+        "tag": "Summer",
+        "heading": "A LIGHTWEIGHT LINEN SHIRT FOR HOT DAYS",
+        "bodyText": "Keep cool in the heat with this lightweight linen shirt. Breathable and soft, it's perfect for casual summer outings or beach vacations. Roll up the sleeves for a laid-back look or leave them down for a more polished style.",
+        "imageUrl": "linen_shirt.png"
+      },
+      {
+        "id": "x022",
+        "name": "Compression Leggings",
+        "price": "50",
+        "label": "Sports",
+        "sizes": ["S", "M", "L", "XL"],
+        "tag": "Workout",
+        "heading": "SUPPORTIVE COMPRESSION LEGGINGS FOR WORKOUTS",
+        "bodyText": "Maximize your performance with these compression leggings, designed to support your muscles and enhance circulation. The moisture-wicking fabric keeps you dry, while the stretchy material moves with you through every workout.",
+        "imageUrl": "compression_leggings.png"
+      },
+      {
+        "id": "x023",
+        "name": "Vintage Graphic Tee",
+        "price": "35",
+        "label": "Shirts",
+        "sizes": ["S", "M", "L", "XL"],
+        "tag": "Vintage",
+        "heading": "A VINTAGE GRAPHIC TEE FOR A RETRO LOOK",
+        "bodyText": "Channel a retro vibe with this vintage graphic tee, featuring bold prints and a relaxed fit. Made from soft cotton, it's perfect for pairing with jeans, shorts, or under a jacket for an effortlessly cool look.",
+        "imageUrl": "vintage_graphic_tee.png"
+      },
+      {
+        "id": "x024",
+        "name": "Cargo Shorts",
+        "price": "50",
+        "label": "Summer",
+        "sizes": ["S", "M", "L", "XL"],
+        "tag": "Outdoor",
+        "heading": "PRACTICAL CARGO SHORTS FOR EVERYDAY WEAR",
+        "bodyText": "Stay prepared for any adventure with these practical cargo shorts. Featuring multiple pockets and a durable fabric, they're ideal for hiking, camping, or casual everyday wear. The relaxed fit ensures comfort in every situation.",
+        "imageUrl": "cargo_shorts.png"
+      },
+      {
+        "id": "x025",
+        "name": "Thermal Gloves",
+        "price": "25",
+        "label": "Accessories",
+        "sizes": ["S", "M", "L"],
+        "tag": "Winter Wear",
+        "heading": "THERMAL GLOVES FOR ULTIMATE WARMTH",
+        "bodyText": "Keep your hands warm in the coldest weather with these thermal gloves. Featuring a soft lining and touch screen-compatible fingertips, these gloves are as functional as they are cozy. Perfect for winter commutes or outdoor activities.",
+        "imageUrl": "thermal_gloves.png"
+      }
+
+]
+
+ 
+ 
