@@ -157,6 +157,7 @@
 				7F29CC092C8652D6004C40AA /* ProductModel.swift */,
 				7FDFB8A72C7EED6700A09108 /* HomeView */,
 				7FB8BBD12C921E580069770F /* ProfileView */,
+				7F99AFF32C7FC37B00833CF5 /* ShopView */,
 				7FE41EC12C8C150E00935AC6 /* login */,
 				7F29CC102C8657F0004C40AA /* CartView */,
 				7FDFB89C2C7E78C000A09108 /* GoogleService-Info.plist */,
@@ -200,7 +201,6 @@
 				7FDFB8A92C7EEE1400A09108 /* HomeView.swift */,
 				7FDFB8A82C7EEDA200A09108 /* BannerView */,
 				7FB77C482C7E48BF0066C044 /* TrendingView */,
-				7F99AFF32C7FC37B00833CF5 /* ShopView */,
 			);
 			path = HomeView;
 			sourceTree = "<group>";

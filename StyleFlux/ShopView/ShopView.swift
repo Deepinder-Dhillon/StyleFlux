@@ -27,7 +27,7 @@ struct ShopView: View, Equatable {
                 .ignoresSafeArea()
       
                 VStack(alignment: .leading) {
-                    Text("ShopFlux")
+                    Text("StyleFlux")
                         .foregroundColor(.white)
                         .font(.title2)
                         .fontWeight(.semibold)

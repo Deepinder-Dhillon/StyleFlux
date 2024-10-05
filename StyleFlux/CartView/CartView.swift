@@ -107,16 +107,20 @@ struct CartView: View {
        
         .onAppear {
             let productIDs = cartProductDetailsManager.getIDs()
-            Task {
-                await cartVM.fetchCartProducts(productIDs: productIDs)
-                await cartVM.fetchImages(for: cartVM.items)
+            if !productIDs.isEmpty {
+                Task {
+                    await cartVM.fetchCartProducts(productIDs: productIDs)
+                    await cartVM.fetchImages(for: cartVM.items)
+                }
             }
         }
         .onChange(of: cartProductDetailsManager.productDetails.keys) { _, _ in
             let productIDs = cartProductDetailsManager.getIDs()
-            Task {
-                await cartVM.fetchCartProducts(productIDs: productIDs)
-                await cartVM.fetchImages(for: cartVM.items)
+            if !productIDs.isEmpty {
+                Task {
+                    await cartVM.fetchCartProducts(productIDs: productIDs)
+                    await cartVM.fetchImages(for: cartVM.items)
+                }
             }
         }
     }
@@ -133,16 +137,25 @@ struct CartView: View {
     }
 
     private func deleteItem(at offsets: IndexSet) {
-        guard let index = offsets.first else { return }
-        let keyToRemove = Array(cartProductDetailsManager.productDetails.keys)[index]
-        
-        cartProductDetailsManager.productDetails.removeValue(forKey: keyToRemove)
+        withAnimation {
+            guard let index = offsets.first else { return }
+            let keyToRemove = Array(cartProductDetailsManager.productDetails.keys)[index]
+            
+            cartProductDetailsManager.productDetails.removeValue(forKey: keyToRemove)
 
-        Task {
-            await cartProductDetailsManager.saveProductDetails()
-            await cartVM.fetchImages(for: cartVM.items)
+            Task {
+                await cartProductDetailsManager.saveProductDetails()
+                
+                let productIDs = cartProductDetailsManager.getIDs()
+                if !productIDs.isEmpty {
+                    await cartVM.fetchCartProducts(productIDs: productIDs)
+                    await cartVM.fetchImages(for: cartVM.items)
+                }
+            }
         }
     }
+
+
     
     private func calculateTax() -> Double {
         return calculateSubtotal() * 0.12
@@ -198,10 +211,11 @@ struct ProductRowView: View {
                 .padding(.trailing)
                 
             }
+            .padding(.top)
             
             Divider()
                 .background(Color.white)
-            .padding(.vertical, 15)
+        
             
  
             
