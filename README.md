@@ -17,7 +17,11 @@
 
 <div align="center">
 
-[![Demo](https://github.com/user-attachments/assets/2e603c50-3c12-45f4-82ee-ae98e880e26b)](https://github.com/user-attachments/assets/2e603c50-3c12-45f4-82ee-ae98e880e26b)
+
+
+https://github.com/user-attachments/assets/1ff54a78-4af5-4c5f-8e37-c9717131f3c8
+
+
 
 </div>
 
