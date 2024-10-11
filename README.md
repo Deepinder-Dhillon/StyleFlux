@@ -2,7 +2,7 @@
 ![5d820786-5345-4b40-9da8-fde6344ca0f6 (1) (1)](https://github.com/user-attachments/assets/095e5a2b-468a-4f92-bdb0-19d3489cea0f)
 
 
-**StyleFlux** is a scalable SwiftUI shopping app designed to provide users with a seamless online shopping experience. It integrates Firebase services for user authentication, product browsing, and cart management, utilizing clean, reusable SwiftUI components and an architecture built for scalability. StyleFlux is designed to grow as both a learning project and a functional shopping app, with Firebase handling real-time data management and image storage, offering a solid foundation for future development and additional features.
+**StyleFlux**  is a iOS shopping app that gives users a smooth online shopping experience. It uses Firebase for user login, browsing products, and managing the shopping cart. The app is built with reusable SwiftUI components and designed to scale easily. While it's a learning project, it also functions as a real shopping app. Firebase helps manage real-time data and store product images, making it a strong base for future updates and features.
 
 ## Table of Contents
 - [Demo](#demo)
